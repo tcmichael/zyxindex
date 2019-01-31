@@ -4,7 +4,7 @@ xxx
 
 # 流程图
 
-pic
+![avatar](https://github.com/tcmichael/zyxindex/blob/master/1.png)
 
 # 交互细节
 
